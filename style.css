@@ -45,6 +45,9 @@ p.intro-des span {
   margin: 0 auto;
 }
 
+img{
+  opacity: 0.9;
+}
 /*** Navbar ***/
 .navbar-container {
   position: fixed;
